@@ -1,0 +1,5 @@
+name= input("Enter your Name: ")
+age= int(input("Enter your Age: "))
+marks= float(input("Enter number of Marks Obtained: "))
+print("\n"f"Name: {name}\nAge: {age}\nMarks: {marks}")
+print("\n"f"Type of Name:{type(name)}\nType of Age {type(age)}\nType of Marks{type(marks)} ")
